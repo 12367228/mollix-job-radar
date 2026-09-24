@@ -3,7 +3,7 @@ name: Mollix Job Radar
 on:
   schedule:
     # Every ten minutes, offset from the busiest minute at the start of the hour.
-    - cron: '3,13,23,33,43,53 * * * *'
+    - cron: '7,17,27,37,47,57 * * * *'
   workflow_dispatch:
 
 permissions:
