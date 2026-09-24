@@ -1,0 +1,12 @@
+[
+  {"title": "Разработать Telegram-бота на Python aiogram", "pass": true},
+  {"title": "Telegram: рассылка контента, гибкий график", "pass": false},
+  {"title": "Заполнить карточки товара", "pass": false},
+  {"title": "Автоматизировать заполнение карточек товара через API", "pass": true},
+  {"title": "PowerPoint создавать слайды", "pass": false},
+  {"title": "Исправить баг React-приложения", "pass": true},
+  {"title": "Доработать парсер Python", "pass": true},
+  {"title": "Внедрение 1С ERP, требуется 3+ года и 3 кейса", "pass": true, "risk": "EXPERIENCE_GATE"},
+  {"title": "Создать SaaS marketplace from scratch", "pass": true, "risk": "LARGE_PROJECT"},
+  {"title": "Разработать Telegram-бота на Python aiogram", "budget": 1000, "pass": true, "decision": "SKIP"}
+]

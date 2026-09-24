@@ -1,0 +1,9 @@
+[project]
+name = "mollix-job-radar"
+version = "0.1.0"
+description = "Public freelance listings delivered to one Telegram owner"
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
