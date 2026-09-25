@@ -898,6 +898,14 @@
       "source_id": "freelancetaverna_3945",
       "status": "seen"
     },
+    "0a2beab28cbd6f31c7f3ae46a1d4e1094f7fa6e4f439a6fc7ecd0141e51ba7fb": {
+      "first_seen_at": "2026-09-25T20:35:38.541343+00:00",
+      "normalized_url": "https://freelance.ru/task/view/11287",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "11287",
+      "status": "seen"
+    },
     "0b70505d5725db92808d905f4c6d9f86cc0914c32a30722acd87f657d325a739": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
       "normalized_url": "https://t.me/freelansim_ru/5610",
