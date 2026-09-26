@@ -854,6 +854,79 @@
       "source": "fl_ru",
       "source_id": "5523455",
       "status": "sent"
+    },
+    "fl_ru:5523485": {
+      "assessment": {
+        "age_hours": 2.2005167691666667,
+        "complexity": 4,
+        "delivery_blockers": [],
+        "eligible": true,
+        "hot": true,
+        "label": "GOOD",
+        "negative_keywords": [],
+        "positive_keywords": [
+          "1с"
+        ],
+        "raw_score": 11,
+        "reasons": [
+          {
+            "code": "base",
+            "points": 2,
+            "text": "Базовая оценка технического проекта"
+          },
+          {
+            "code": "specialization",
+            "points": 2,
+            "text": "Технические признаки: 1с"
+          },
+          {
+            "code": "stack_compatibility",
+            "points": 0,
+            "text": "STACK_COMPATIBILITY: PARTIAL_MATCH; Частичное совпадение: 1C programming"
+          },
+          {
+            "code": "fresh",
+            "points": 2,
+            "text": "Возраст 2.2 ч; бонус свежести +2"
+          },
+          {
+            "code": "concrete",
+            "points": 1,
+            "text": "Есть конкретные действия или формат результата в ТЗ"
+          },
+          {
+            "code": "budget",
+            "points": 2,
+            "text": "Бюджет в целевом диапазоне 5 000–30 000 RUB"
+          },
+          {
+            "code": "competition",
+            "points": 2,
+            "text": "Откликов: 4; конкуренция +2"
+          },
+          {
+            "code": "partial_stack_cap",
+            "points": 0,
+            "text": "PARTIAL_MATCH: FIRE запрещён, максимум GOOD 7/10"
+          }
+        ],
+        "relevance_gate": true,
+        "relevance_reason": "Технические признаки: 1с",
+        "risk_flags": [],
+        "score": 7,
+        "scored": true,
+        "stack_compatibility": "PARTIAL_MATCH",
+        "stack_details": [
+          "1C programming"
+        ],
+        "stack_reason": "Частичное совпадение: 1C programming",
+        "telegram_deliverable": true
+      },
+      "reserved_at": "2026-09-26T19:29:01.863665+00:00",
+      "sent_at": "2026-09-26T19:29:02.200271+00:00",
+      "source": "fl_ru",
+      "source_id": "5523485",
+      "status": "sent"
     }
   },
   "fingerprints": {
@@ -928,6 +1001,14 @@
       "source": "freelance_ru",
       "source_id": "7999",
       "status": "seen"
+    },
+    "0512f7786be7c2add51f84707ed21ecdb7f1330f1ffcac02d5d73149d7faf919": {
+      "first_seen_at": "2026-09-26T19:29:00.403593+00:00",
+      "normalized_url": "https://fl.ru/projects/5523485",
+      "sent_at": "2026-09-26T19:29:02.200271+00:00",
+      "source": "fl_ru",
+      "source_id": "5523485",
+      "status": "sent"
     },
     "0534d09ae34271b6e822d5fab70e800171eb8a83d934d660a39003f26c9066e3": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
@@ -1887,6 +1968,14 @@
       "sent_at": null,
       "source": "freelance_ru",
       "source_id": "11185",
+      "status": "seen"
+    },
+    "546dbabb7580c1a0e97118e7275f2149e687dce46733c724099c38b589c5f341": {
+      "first_seen_at": "2026-09-26T19:29:00.403593+00:00",
+      "normalized_url": "https://freelance.ru/task/view/11332",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "11332",
       "status": "seen"
     },
     "5500cbfd44844652ad72d254adb1530ca1d8648043c9acb70c21ed6408272678": {
