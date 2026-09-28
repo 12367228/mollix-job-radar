@@ -927,6 +927,231 @@
       "source": "fl_ru",
       "source_id": "5523485",
       "status": "sent"
+    },
+    "fl_ru:5523568": {
+      "assessment": {
+        "age_hours": 0.5660845080555555,
+        "complexity": 3,
+        "delivery_blockers": [],
+        "eligible": true,
+        "hot": true,
+        "label": "GOOD",
+        "negative_keywords": [],
+        "positive_keywords": [],
+        "raw_score": 9,
+        "reasons": [
+          {
+            "code": "base",
+            "points": 2,
+            "text": "Базовая оценка технического проекта"
+          },
+          {
+            "code": "specialization",
+            "points": 1,
+            "text": "Техническая категория: программирование"
+          },
+          {
+            "code": "stack_compatibility",
+            "points": 0,
+            "text": "STACK_COMPATIBILITY: PARTIAL_MATCH; Частичное совпадение: OpenCart"
+          },
+          {
+            "code": "fresh",
+            "points": 3,
+            "text": "Возраст 0.6 ч; бонус свежести +3"
+          },
+          {
+            "code": "unknown_budget",
+            "points": 0,
+            "text": "Бюджет не указан"
+          },
+          {
+            "code": "competition",
+            "points": 3,
+            "text": "Откликов: 2; конкуренция +3"
+          },
+          {
+            "code": "partial_stack_cap",
+            "points": 0,
+            "text": "PARTIAL_MATCH: FIRE запрещён, максимум GOOD 7/10"
+          }
+        ],
+        "relevance_gate": true,
+        "relevance_reason": "Техническая категория: программирование",
+        "risk_flags": [],
+        "score": 7,
+        "scored": true,
+        "stack_compatibility": "PARTIAL_MATCH",
+        "stack_details": [
+          "OpenCart"
+        ],
+        "stack_reason": "Частичное совпадение: OpenCart",
+        "telegram_deliverable": true
+      },
+      "reserved_at": "2026-09-28T06:49:57.907230+00:00",
+      "sent_at": "2026-09-28T06:49:58.035061+00:00",
+      "source": "fl_ru",
+      "source_id": "5523568",
+      "status": "sent"
+    },
+    "fl_ru:5523571": {
+      "assessment": {
+        "age_hours": 0.5324062252777778,
+        "complexity": 3,
+        "delivery_blockers": [],
+        "eligible": true,
+        "hot": true,
+        "label": "GOOD",
+        "negative_keywords": [],
+        "positive_keywords": [],
+        "raw_score": 10,
+        "reasons": [
+          {
+            "code": "base",
+            "points": 2,
+            "text": "Базовая оценка технического проекта"
+          },
+          {
+            "code": "specialization",
+            "points": 1,
+            "text": "Техническая категория: web development"
+          },
+          {
+            "code": "stack_compatibility",
+            "points": 0,
+            "text": "STACK_COMPATIBILITY: PARTIAL_MATCH; Частичное совпадение: WordPress"
+          },
+          {
+            "code": "fresh",
+            "points": 3,
+            "text": "Возраст 0.5 ч; бонус свежести +3"
+          },
+          {
+            "code": "concrete",
+            "points": 1,
+            "text": "Есть конкретные действия или формат результата в ТЗ"
+          },
+          {
+            "code": "budget",
+            "points": 2,
+            "text": "Бюджет в целевом диапазоне 5 000–30 000 RUB"
+          },
+          {
+            "code": "competition",
+            "points": 1,
+            "text": "Откликов: 11; конкуренция +1"
+          },
+          {
+            "code": "partial_stack_cap",
+            "points": 0,
+            "text": "PARTIAL_MATCH: FIRE запрещён, максимум GOOD 7/10"
+          }
+        ],
+        "relevance_gate": true,
+        "relevance_reason": "Техническая категория: web development",
+        "risk_flags": [],
+        "score": 7,
+        "scored": true,
+        "stack_compatibility": "PARTIAL_MATCH",
+        "stack_details": [
+          "WordPress"
+        ],
+        "stack_reason": "Частичное совпадение: WordPress",
+        "telegram_deliverable": true
+      },
+      "reserved_at": "2026-09-28T06:49:56.665846+00:00",
+      "sent_at": "2026-09-28T06:49:56.798857+00:00",
+      "source": "fl_ru",
+      "source_id": "5523571",
+      "status": "sent"
+    },
+    "freelance_ru:11405": {
+      "assessment": {
+        "age_hours": 0.3153275236111111,
+        "complexity": 8,
+        "delivery_blockers": [],
+        "eligible": true,
+        "hot": true,
+        "label": "GOOD",
+        "negative_keywords": [],
+        "positive_keywords": [
+          "telegram-бот",
+          "бот"
+        ],
+        "raw_score": 7,
+        "reasons": [
+          {
+            "code": "base",
+            "points": 2,
+            "text": "Базовая оценка технического проекта"
+          },
+          {
+            "code": "specialization",
+            "points": 2,
+            "text": "Технические признаки: telegram-бот, бот"
+          },
+          {
+            "code": "stack_compatibility",
+            "points": 2,
+            "text": "STACK_COMPATIBILITY: HIGH_MATCH; Основной стек: Telegram Bot API"
+          },
+          {
+            "code": "fresh",
+            "points": 3,
+            "text": "Возраст 0.3 ч; бонус свежести +3"
+          },
+          {
+            "code": "budget",
+            "points": 1,
+            "text": "Бюджет выше целевого диапазона, до 100 000 RUB"
+          },
+          {
+            "code": "competition",
+            "points": 3,
+            "text": "Откликов: 1; конкуренция +3"
+          },
+          {
+            "code": "large_project",
+            "points": -3,
+            "text": "LARGE_PROJECT: крупный бюджет, продукт с нуля, внедрение ERP/enterprise или срок 30+ дней"
+          },
+          {
+            "code": "experience_gate",
+            "points": -3,
+            "text": "EXPERIENCE_GATE: требуется опыт 3+ года, обязательные кейсы, внедрения, рекомендации или Senior"
+          },
+          {
+            "code": "fire_blocked",
+            "points": 0,
+            "text": "FIRE запрещён: крупный проект или обязательный опыт; итог не выше 7"
+          },
+          {
+            "code": "open_status_cap",
+            "points": 0,
+            "text": "Нет подтверждения приёма откликов: максимум GOOD 7/10"
+          }
+        ],
+        "relevance_gate": true,
+        "relevance_reason": "Технические признаки: telegram-бот, бот",
+        "risk_flags": [
+          "LARGE_PROJECT",
+          "EXPERIENCE_GATE",
+          "OPEN_STATUS_UNKNOWN"
+        ],
+        "score": 7,
+        "scored": true,
+        "stack_compatibility": "HIGH_MATCH",
+        "stack_details": [
+          "Telegram Bot API"
+        ],
+        "stack_reason": "Основной стек: Telegram Bot API",
+        "telegram_deliverable": true
+      },
+      "reserved_at": "2026-09-28T06:49:55.184845+00:00",
+      "sent_at": "2026-09-28T06:49:55.556938+00:00",
+      "source": "freelance_ru",
+      "source_id": "11405",
+      "status": "sent"
     }
   },
   "fingerprints": {
@@ -1114,6 +1339,14 @@
       "source_id": "5522915",
       "status": "seen"
     },
+    "0e4e5cacfa69fef2de7b969609f7e6eda01a0bf470e118c4bf7a04635b43531a": {
+      "first_seen_at": "2026-09-28T06:49:53.814112+00:00",
+      "normalized_url": "https://fl.ru/projects/5523568",
+      "sent_at": "2026-09-28T06:49:58.035061+00:00",
+      "source": "fl_ru",
+      "source_id": "5523568",
+      "status": "sent"
+    },
     "0f588b82844abcca21273de3669a2f678f2ac143dd3e4edfbed788a0db7e8d6f": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
       "normalized_url": "https://fl.ru/projects/5522831",
@@ -1152,6 +1385,14 @@
       "sent_at": null,
       "source": "freelance_ru",
       "source_id": "11380",
+      "status": "seen"
+    },
+    "10f7fea9213a001d534faace0282cf234bbe5fddf732e3974d7f837c1f43a017": {
+      "first_seen_at": "2026-09-28T06:49:53.814112+00:00",
+      "normalized_url": "https://fl.ru/projects/5523570",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5523570",
       "status": "seen"
     },
     "11498b5a39227c2e3923799a929ae8595cb48df4d7ba9c93a76bc9f39cf5b7ae": {
@@ -1208,6 +1449,14 @@
       "sent_at": null,
       "source": "fl_ru",
       "source_id": "5523188",
+      "status": "seen"
+    },
+    "180e5b2de24576f399c62960c9f76f79703c21c0af828e3a075efd2b8deca3db": {
+      "first_seen_at": "2026-09-28T06:49:53.814112+00:00",
+      "normalized_url": "https://fl.ru/projects/5523582",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5523582",
       "status": "seen"
     },
     "181eb48c88de374fd9ee62c8c005517d306480953b782491a40e1e609c203906": {
@@ -1544,6 +1793,22 @@
       "sent_at": null,
       "source": "fl_ru",
       "source_id": "5522097",
+      "status": "seen"
+    },
+    "2fa6a0eb1d01b46b12addd49ae3d214cababca8b35660b52dc05df534e3922f0": {
+      "first_seen_at": "2026-09-28T06:49:53.814112+00:00",
+      "normalized_url": "https://freelance.ru/task/view/11394",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "11394",
+      "status": "seen"
+    },
+    "3095338fe9b7a2230c7b57923f5816add7945a0716dc1edd3093581da65c0ca8": {
+      "first_seen_at": "2026-09-28T06:49:53.814112+00:00",
+      "normalized_url": "https://fl.ru/projects/5523577",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5523577",
       "status": "seen"
     },
     "3138368715ab9f519a24a31908704ba451d4182586f8e82d6e317b5192f12410": {
@@ -2353,6 +2618,14 @@
       "source": "freelance_ru",
       "source_id": "11253",
       "status": "seen"
+    },
+    "6b9c042f8052e4bab69531d4c5f421bc94919505db83f41570ebe2803f813530": {
+      "first_seen_at": "2026-09-28T06:49:53.814112+00:00",
+      "normalized_url": "https://fl.ru/projects/5523571",
+      "sent_at": "2026-09-28T06:49:56.798857+00:00",
+      "source": "fl_ru",
+      "source_id": "5523571",
+      "status": "sent"
     },
     "6bc7f37ce29a2830d5e8dd319aca35f85b9b55ce57e33dfaeed23b00f2fd94b2": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
@@ -3450,6 +3723,14 @@
       "source_id": "freelancetaverna_3938",
       "status": "seen"
     },
+    "b768ca11cb9488ff20f37aa7d177ced40ae552af917293e1a4bb0c5354585fc4": {
+      "first_seen_at": "2026-09-28T06:49:53.814112+00:00",
+      "normalized_url": "https://freelance.ru/task/view/11395",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "11395",
+      "status": "seen"
+    },
     "b7f0019ad08610d6c4c75f331e99fe06e88805d99a30857989cd6b275d61450f": {
       "first_seen_at": "2026-09-27T10:52:18.290483+00:00",
       "normalized_url": "https://freelance.ru/task/view/11348",
@@ -3520,6 +3801,14 @@
       "sent_at": null,
       "source": "fl_ru",
       "source_id": "5523298",
+      "status": "seen"
+    },
+    "bcd8903e8a4f5756ee1398003ea708ba3097d2523c5726044c010722caec54e7": {
+      "first_seen_at": "2026-09-28T06:49:53.814112+00:00",
+      "normalized_url": "https://fl.ru/projects/5523562",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5523562",
       "status": "seen"
     },
     "bdfda13db32a32632d21dde11b0aab708be21b783c1ecd38d7bf00156f1c8bd4": {
@@ -3705,6 +3994,14 @@
       "source": "fl_ru",
       "source_id": "5521996",
       "status": "seen"
+    },
+    "c9c8ea7662c3cf25adc68f355c3b0c03292300e038b427ec7331f3dbaa8ea0e8": {
+      "first_seen_at": "2026-09-28T06:49:53.814112+00:00",
+      "normalized_url": "https://freelance.ru/task/view/11405",
+      "sent_at": "2026-09-28T06:49:55.556938+00:00",
+      "source": "freelance_ru",
+      "source_id": "11405",
+      "status": "sent"
     },
     "ca1831f3214f3793eca24c810af255f7a0887353e1b6ea246063b40552889def": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
