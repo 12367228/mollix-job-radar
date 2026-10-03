@@ -2923,6 +2923,14 @@
       "source_id": "5520265",
       "status": "seen"
     },
+    "2d6d95d6d2e326d512a9adbc6370b33eb4ce9f2cb4f7ec604830344202814120": {
+      "first_seen_at": "2026-10-03T16:37:14.375833+00:00",
+      "normalized_url": "https://freelance.ru/task/view/11872",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "11872",
+      "status": "seen"
+    },
     "2e073f2b624aa1cba6b65d792e03fa8381825cc5fa51de2cf01505a27c295677": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
       "normalized_url": "https://fl.ru/projects/5522894",
@@ -4993,6 +5001,14 @@
       "sent_at": null,
       "source": "fl_ru",
       "source_id": "5521757",
+      "status": "seen"
+    },
+    "8e2e164d5d631289c953d5674f9f897f5e301b772c0b814f77915cf254520b62": {
+      "first_seen_at": "2026-10-03T16:37:14.375833+00:00",
+      "normalized_url": "https://t.me/digitaltender/5549",
+      "sent_at": null,
+      "source": "telegram_public",
+      "source_id": "digitaltender_5549",
       "status": "seen"
     },
     "8e498cbb0de300b51b41f607f78e5ac5a24d6041be6f03a93e44f1151ae31696": {
