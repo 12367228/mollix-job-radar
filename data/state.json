@@ -5900,6 +5900,14 @@
       "source_id": "5523384",
       "status": "seen"
     },
+    "9a7e3e2e137c5e52223059b98bda37598ee2abb18075c0a9923e4f0daa04aa5b": {
+      "first_seen_at": "2026-10-07T00:00:19.656672+00:00",
+      "normalized_url": "https://freelance.ru/task/view/12091",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "12091",
+      "status": "seen"
+    },
     "9b02c1b7e845ada267b1573c66704f42e0b80558adf4c46c7489004ff5b1485e": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
       "normalized_url": "https://fl.ru/projects/5522963",
