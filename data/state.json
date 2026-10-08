@@ -4012,6 +4012,14 @@
       "source_id": "12235",
       "status": "seen"
     },
+    "4ad4fa98ec5feb65c958a570cfd7f951553b63f36ab139056538082968a020a6": {
+      "first_seen_at": "2026-10-08T22:21:30.427595+00:00",
+      "normalized_url": "https://freelance.ru/task/view/12273",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "12273",
+      "status": "seen"
+    },
     "4b4d5ee1ae1a022ba51a42d2427c119268e5768ab5e9c1f345564953fbc04193": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
       "normalized_url": "https://t.me/freelancetaverna/3937",
@@ -4034,6 +4042,14 @@
       "sent_at": null,
       "source": "fl_ru",
       "source_id": "5523718",
+      "status": "seen"
+    },
+    "4c6d109ab399ffbf56ab3406da54f5ae89eb776265433139c0a9969657f389cf": {
+      "first_seen_at": "2026-10-08T22:21:30.427595+00:00",
+      "normalized_url": "https://fl.ru/projects/5524908",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5524908",
       "status": "seen"
     },
     "4d003561e85112e9e572b91142e132398e044edb2454d5553f8b60ffcbc4bd01": {
@@ -5074,6 +5090,14 @@
       "sent_at": null,
       "source": "fl_ru",
       "source_id": "5523323",
+      "status": "seen"
+    },
+    "708667005c558e611bd78b15487ef2a5345e475203bebd9d8973c71a72cafded": {
+      "first_seen_at": "2026-10-08T22:21:30.427595+00:00",
+      "normalized_url": "https://fl.ru/projects/5524909",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5524909",
       "status": "seen"
     },
     "70a5980f613083e723fad38a751e94a4428f8b83ca489ddcb4f2b120d8ed62db": {
@@ -7170,6 +7194,14 @@
       "sent_at": null,
       "source": "fl_ru",
       "source_id": "5523298",
+      "status": "seen"
+    },
+    "bc2775e7eca32fcd2e2224268c3198a7728e762521dc872f919adf891e0d26f1": {
+      "first_seen_at": "2026-10-08T22:21:30.427595+00:00",
+      "normalized_url": "https://freelance.ru/task/view/12287",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "12287",
       "status": "seen"
     },
     "bc6f9fb0113e9cae11850bff2666aa8b06735be4a59fc065b1bf554e5ec122a9": {
