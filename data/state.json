@@ -3244,6 +3244,14 @@
       "source_id": "11962",
       "status": "seen"
     },
+    "29f73eb7cd9a15c8794b1d6da7b69003ebd3fb3794e11c5695bc40bd33e96a92": {
+      "first_seen_at": "2026-10-09T21:16:00.586778+00:00",
+      "normalized_url": "https://fl.ru/projects/5525050",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5525050",
+      "status": "seen"
+    },
     "2aac2a13469e509c130abd6073307383da549dbfefa8bc31b11163a733037ef5": {
       "first_seen_at": "2026-09-30T19:22:56.671603+00:00",
       "normalized_url": "https://fl.ru/projects/5523960",
@@ -3586,6 +3594,14 @@
       "sent_at": null,
       "source": "freelance_ru",
       "source_id": "10445",
+      "status": "seen"
+    },
+    "36ae0b277ba537a2902524ffe442b7bccc10d15fba15e091697fe16c5fb6d2d1": {
+      "first_seen_at": "2026-10-09T21:16:00.586778+00:00",
+      "normalized_url": "https://fl.ru/projects/5525028",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5525028",
       "status": "seen"
     },
     "36bf3439a1cee2f033f1ce2a8cf80751125efc524adcdf7726353d2d0fa4fbe7": {
@@ -4482,6 +4498,14 @@
       "sent_at": null,
       "source": "fl_ru",
       "source_id": "5521841",
+      "status": "seen"
+    },
+    "58dcf690e3c89406f442ca063c5bd102f4f90ba788d62b7df72d1ebb0d705d94": {
+      "first_seen_at": "2026-10-09T21:16:00.586778+00:00",
+      "normalized_url": "https://fl.ru/projects/5525029",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5525029",
       "status": "seen"
     },
     "58ea49ce6ef7f4ac42f3eb9ab418b65962db56af444a9f005b2801b771e79fb7": {
@@ -7811,6 +7835,14 @@
       "source": "fl_ru",
       "source_id": "5523105",
       "status": "sent"
+    },
+    "cadf810d56224d05e0ff447f06a074691d20dd59b7ca95729232d81f086e5877": {
+      "first_seen_at": "2026-10-09T21:16:00.586778+00:00",
+      "normalized_url": "https://fl.ru/projects/5525034",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5525034",
+      "status": "seen"
     },
     "cb6e153e8c44eb508227e2eb4ce775e33cb9fee081fb1ecbe7806be76e4ec00d": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
