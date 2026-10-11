@@ -2547,6 +2547,14 @@
       "source_id": "11415",
       "status": "seen"
     },
+    "0e43afde131d0d4a278287e896684e783abb1901dd64a27170585345f1262d68": {
+      "first_seen_at": "2026-10-11T22:00:15.456808+00:00",
+      "normalized_url": "https://freelance.ru/task/view/12495",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "12495",
+      "status": "seen"
+    },
     "0e4e5cacfa69fef2de7b969609f7e6eda01a0bf470e118c4bf7a04635b43531a": {
       "first_seen_at": "2026-09-28T06:49:53.814112+00:00",
       "normalized_url": "https://fl.ru/projects/5523568",
