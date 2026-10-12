@@ -8475,6 +8475,14 @@
       "source_id": "freelancetaverna_3970",
       "status": "seen"
     },
+    "d49aa68e45328e33f7ec37840939c117876c42ec07ba7094b7bbed594e1b5f16": {
+      "first_seen_at": "2026-10-12T07:28:26.935154+00:00",
+      "normalized_url": "https://t.me/freelancetaverna/4035",
+      "sent_at": null,
+      "source": "telegram_public",
+      "source_id": "freelancetaverna_4035",
+      "status": "seen"
+    },
     "d49b1287a9dd2348cec0109d97b8b6bfa97317bdcff2f996ef7175dfeec330f4": {
       "first_seen_at": "2026-10-07T18:55:50.031941+00:00",
       "normalized_url": "https://fl.ru/projects/5524730",
