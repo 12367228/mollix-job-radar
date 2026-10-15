@@ -2547,6 +2547,92 @@
       "source_id": "5525323",
       "status": "sent"
     },
+    "fl_ru:5525412": {
+      "assessment": {
+        "age_hours": 12.697577015277778,
+        "complexity": 4,
+        "delivery_blockers": [],
+        "eligible": true,
+        "hot": false,
+        "label": "GOOD",
+        "negative_keywords": [],
+        "positive_keywords": [
+          "api",
+          "react",
+          "typescript",
+          "vps"
+        ],
+        "raw_score": 9,
+        "reasons": [
+          {
+            "code": "base",
+            "points": 2,
+            "text": "Базовая оценка технического проекта"
+          },
+          {
+            "code": "specialization",
+            "points": 4,
+            "text": "Технические признаки: api, react, typescript, vps"
+          },
+          {
+            "code": "stack_compatibility",
+            "points": 2,
+            "text": "STACK_COMPATIBILITY: HIGH_MATCH; Основной стек: REST API, TypeScript, React, VPS"
+          },
+          {
+            "code": "fresh",
+            "points": 0,
+            "text": "Возраст 12.7 ч; бонус свежести +0"
+          },
+          {
+            "code": "concrete",
+            "points": 1,
+            "text": "Есть конкретные действия или формат результата в ТЗ"
+          },
+          {
+            "code": "unknown_budget",
+            "points": 0,
+            "text": "Бюджет не указан"
+          },
+          {
+            "code": "competition",
+            "points": -1,
+            "text": "Откликов: 17; конкуренция -1"
+          },
+          {
+            "code": "existing",
+            "points": 1,
+            "text": "Доработка или исправление существующего проекта"
+          },
+          {
+            "code": "fire_age_limit",
+            "points": 0,
+            "text": "FIRE запрещён: старше 6 часов; итог не выше 7"
+          }
+        ],
+        "relevance_gate": true,
+        "relevance_reason": "Технические признаки: api, react, typescript, vps",
+        "risk_flags": [
+          "OLDER_THAN_HOT_WINDOW"
+        ],
+        "score": 7,
+        "scored": true,
+        "stack_compatibility": "HIGH_MATCH",
+        "stack_details": [
+          "REST API",
+          "TypeScript",
+          "React",
+          "VPS"
+        ],
+        "stack_reason": "Основной стек: REST API, TypeScript, React, VPS",
+        "telegram_deliverable": true
+      },
+      "reserved_at": "2026-10-15T04:32:51.280046+00:00",
+      "sent_at": "2026-10-15T04:32:51.722554+00:00",
+      "source": "fl_ru",
+      "source_id": "5525412",
+      "status": "sent"
+    },
     "fl_ru:5525427": {
       "assessment": {
         "age_hours": 1.916393016111111,
@@ -7679,6 +7765,14 @@
       "source_id": "freelancetaverna_4014",
       "status": "seen"
     },
+    "99b8f40f2f4cae056131cd3a7d7d16fe029dec3b64ee3db69742d9cf1922d222": {
+      "first_seen_at": "2026-10-15T04:32:50.445753+00:00",
+      "normalized_url": "https://freelance.ru/task/view/12740",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "12740",
+      "status": "seen"
+    },
     "99bb1fa6890e726d583be9b1291bbc710a5ada285cd81df7c536d88474e51df9": {
       "first_seen_at": "2026-09-30T19:22:56.671603+00:00",
       "normalized_url": "https://fl.ru/projects/5523924",
@@ -10858,10 +10952,10 @@
     "fa824b2215a7dc64d43a7cb998b3b36d19a2b74ffc032e2f561333358b0071d4": {
       "first_seen_at": "2026-10-14T17:58:29.902975+00:00",
       "normalized_url": "https://fl.ru/projects/5525412",
-      "sent_at": null,
+      "sent_at": "2026-10-15T04:32:51.722554+00:00",
       "source": "fl_ru",
       "source_id": "5525412",
-      "status": "seen"
+      "status": "sent"
     },
     "fa84f0e8acea251b568fe3b6c6000acd79fd13fac2603893e8fbcb5824af8efc": {
       "first_seen_at": "2026-09-29T18:38:41.766114+00:00",
