@@ -3101,6 +3101,86 @@
       "source": "freelance_ru",
       "source_id": "11802",
       "status": "sent"
+    },
+    "freelance_ru:12822": {
+      "assessment": {
+        "age_hours": 1.1846561130555557,
+        "complexity": 4,
+        "delivery_blockers": [],
+        "eligible": true,
+        "hot": true,
+        "label": "GOOD",
+        "negative_keywords": [],
+        "positive_keywords": [
+          "python",
+          "api",
+          "автоматизация"
+        ],
+        "raw_score": 12,
+        "reasons": [
+          {
+            "code": "base",
+            "points": 2,
+            "text": "Базовая оценка технического проекта"
+          },
+          {
+            "code": "specialization",
+            "points": 4,
+            "text": "Технические признаки: python, api, автоматизация"
+          },
+          {
+            "code": "stack_compatibility",
+            "points": 0,
+            "text": "STACK_COMPATIBILITY: PARTIAL_MATCH; Частичное совпадение: Google APIs"
+          },
+          {
+            "code": "fresh",
+            "points": 3,
+            "text": "Возраст 1.2 ч; бонус свежести +3"
+          },
+          {
+            "code": "budget",
+            "points": 2,
+            "text": "Бюджет в целевом диапазоне 5 000–30 000 RUB"
+          },
+          {
+            "code": "competition",
+            "points": 1,
+            "text": "Откликов: 11; конкуренция +1"
+          },
+          {
+            "code": "partial_stack_cap",
+            "points": 0,
+            "text": "PARTIAL_MATCH: FIRE запрещён, максимум GOOD 7/10"
+          },
+          {
+            "code": "open_status_cap",
+            "points": 0,
+            "text": "Нет подтверждения приёма откликов: максимум GOOD 7/10"
+          }
+        ],
+        "relevance_gate": true,
+        "relevance_reason": "Технические признаки: python, api, автоматизация",
+        "risk_flags": [
+          "OPEN_STATUS_UNKNOWN"
+        ],
+        "score": 7,
+        "scored": true,
+        "stack_compatibility": "PARTIAL_MATCH",
+        "stack_details": [
+          "Google APIs",
+          "Python",
+          "REST API",
+          "automation"
+        ],
+        "stack_reason": "Частичное совпадение: Google APIs",
+        "telegram_deliverable": true
+      },
+      "reserved_at": "2026-10-15T21:41:04.766718+00:00",
+      "sent_at": "2026-10-15T21:41:05.359839+00:00",
+      "source": "freelance_ru",
+      "source_id": "12822",
+      "status": "sent"
     }
   },
   "fingerprints": {
@@ -8184,6 +8264,14 @@
       "source_id": "12091",
       "status": "seen"
     },
+    "9aed4145a9beb8b49ca4224f8071e43c8b980c90b7d81a58b5ac51081bcadb75": {
+      "first_seen_at": "2026-10-15T21:41:03.353648+00:00",
+      "normalized_url": "https://freelance.ru/task/view/12822",
+      "sent_at": "2026-10-15T21:41:05.359839+00:00",
+      "source": "freelance_ru",
+      "source_id": "12822",
+      "status": "sent"
+    },
     "9b02c1b7e845ada267b1573c66704f42e0b80558adf4c46c7489004ff5b1485e": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
       "normalized_url": "https://fl.ru/projects/5522963",
@@ -10504,6 +10592,14 @@
       "source_id": "5525494",
       "status": "sent"
     },
+    "dc00a0a049ec3bc3db0aaa8e1bd61d462cbc7133497751cd3fd3481ca1045a7a": {
+      "first_seen_at": "2026-10-15T21:41:03.353648+00:00",
+      "normalized_url": "https://freelance.ru/task/view/12817",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "12817",
+      "status": "seen"
+    },
     "dc65f3e950b685b6b5ec1c8affe38994f84453373abfbc63c80300ed37a67f79": {
       "first_seen_at": "2026-09-27T10:52:18.290483+00:00",
       "normalized_url": "https://fl.ru/projects/5523508",
@@ -11070,6 +11166,14 @@
       "sent_at": null,
       "source": "fl_ru",
       "source_id": "5522633",
+      "status": "seen"
+    },
+    "ed2cf3202fabbb303f089a1f3b0e80d9f78765706e39d91eb9a36ee6e5ae3da0": {
+      "first_seen_at": "2026-10-15T21:41:03.353648+00:00",
+      "normalized_url": "https://freelance.ru/task/view/12818",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "12818",
       "status": "seen"
     },
     "ed46f4a5a03e925daa99cbce41da2a6af65a61b9e5a08f73afa8097fe6bd3b22": {
