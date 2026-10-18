@@ -12289,6 +12289,14 @@
       "source_id": "5523808",
       "status": "seen"
     },
+    "f993030a05885170b5313fe8af217363ffca7b88212dd7afffd368e1482faddc": {
+      "first_seen_at": "2026-10-18T21:53:09.650309+00:00",
+      "normalized_url": "https://freelance.ru/task/view/12973",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "12973",
+      "status": "seen"
+    },
     "f9f8edc6224fb56e6d438a9a405b6fcdf85827715df3e5be3e3f8220e582bb05": {
       "first_seen_at": "2026-10-13T18:31:27.332035+00:00",
       "normalized_url": "https://fl.ru/projects/5525256",
