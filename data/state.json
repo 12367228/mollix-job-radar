@@ -5172,6 +5172,14 @@
       "source_id": "5523142",
       "status": "seen"
     },
+    "3777f319e3279c083ca1760119ae442e5b11f7cec55df22552f8e4f18e8d26d6": {
+      "first_seen_at": "2026-10-18T05:51:58.661985+00:00",
+      "normalized_url": "https://fl.ru/projects/5525729",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5525729",
+      "status": "seen"
+    },
     "379db10c36af78dcc777b4de2a86a36f4c3a00d92263110bf6936dd97e98177d": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
       "normalized_url": "https://fl.ru/projects/5522246",
