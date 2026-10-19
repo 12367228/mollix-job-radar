@@ -7833,6 +7833,14 @@
       "source_id": "freelansim_ru_5620",
       "status": "seen"
     },
+    "7c1533af254dbfaecb6413d47bafb5241b7ff65f4a6c32c5c213724606adaf1f": {
+      "first_seen_at": "2026-10-19T17:02:21.178531+00:00",
+      "normalized_url": "https://freelance.ru/task/view/13018",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "13018",
+      "status": "seen"
+    },
     "7d0718cc070aeed92d035947ed072e9774ef743cbdf8ada15c65e2dc6c908c0a": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
       "normalized_url": "https://freelance.ru/task/view/9207",
