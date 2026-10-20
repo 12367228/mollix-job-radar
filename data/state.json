@@ -7913,6 +7913,14 @@
       "source_id": "5522559",
       "status": "seen"
     },
+    "7f652e92dacd89dffa8eeba99c4182d01ce6a97f69e962e006625519895dca9c": {
+      "first_seen_at": "2026-10-20T05:21:08.636647+00:00",
+      "normalized_url": "https://fl.ru/projects/5525970",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5525970",
+      "status": "seen"
+    },
     "80259e8b3566154e3f0b0b1a8ddea5555bb0d3ff79afa9336a9eabecc8834096": {
       "first_seen_at": "2026-10-05T12:38:12.802695+00:00",
       "normalized_url": "https://fl.ru/projects/5524393",
