@@ -12864,6 +12864,14 @@
       "source_id": "5524327",
       "status": "seen"
     },
+    "f0945e9342ec876dc97df1d19e0b7a6a52f78e798dd139d9ae1a170527d85ec4": {
+      "first_seen_at": "2026-10-21T23:12:14.847643+00:00",
+      "normalized_url": "https://fl.ru/projects/5526235",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5526235",
+      "status": "seen"
+    },
     "f0a594ed65f081f68b770fcbfd494cd3498f37733995fb175bc825377a75d95b": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
       "normalized_url": "https://fl.ru/projects/5523070",
