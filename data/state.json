@@ -12871,6 +12871,14 @@
       "source_id": "11696",
       "status": "seen"
     },
+    "e1d04b0e1b484fcb47150a8c2da82370b41dcdbc9d4f7d81d9c3baa917fe0d64": {
+      "first_seen_at": "2026-10-23T02:01:37.522830+00:00",
+      "normalized_url": "https://fl.ru/projects/5526387",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5526387",
+      "status": "seen"
+    },
     "e22f4e999040b5f03bfccdc9c78e451da574f2fa2735843b969fda7e5ae41af0": {
       "first_seen_at": "2026-10-15T09:25:57.868406+00:00",
       "normalized_url": "https://fl.ru/projects/5525453",
