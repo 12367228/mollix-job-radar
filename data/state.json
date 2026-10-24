@@ -7151,6 +7151,14 @@
       "source_id": "5525824",
       "status": "seen"
     },
+    "54d323bd385d8f5bc7933c823ebb7245eb5069c475d8f4ce549bfaeae3efe76c": {
+      "first_seen_at": "2026-10-24T07:10:17.436496+00:00",
+      "normalized_url": "https://freelance.ru/task/view/13524",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "13524",
+      "status": "seen"
+    },
     "54fb30e69c1d4e04aca59d214511bec9f860bd0d368bbb3ab8aaad6743657f7b": {
       "first_seen_at": "2026-10-23T20:38:54.807325+00:00",
       "normalized_url": "https://fl.ru/projects/5526509",
@@ -9813,6 +9821,14 @@
       "sent_at": null,
       "source": "telegram_public",
       "source_id": "freelancetaverna_4010",
+      "status": "seen"
+    },
+    "93f129f9c2622bf68189944d012e9f312f0cb08ef6c786113250f99d0c5a889d": {
+      "first_seen_at": "2026-10-24T07:10:17.436496+00:00",
+      "normalized_url": "https://t.me/freelancetaverna/4084",
+      "sent_at": null,
+      "source": "telegram_public",
+      "source_id": "freelancetaverna_4084",
       "status": "seen"
     },
     "93f73ca1cf124e308fb14eefe45e1f758684714d610b80e69662b9e7d6b9e452": {
@@ -12621,6 +12637,14 @@
       "sent_at": null,
       "source": "fl_ru",
       "source_id": "5522562",
+      "status": "seen"
+    },
+    "d67be3cef3cbdccc7f8b66a38267650725f750a219369474510ecdcd457a2c6e": {
+      "first_seen_at": "2026-10-24T07:10:17.436496+00:00",
+      "normalized_url": "https://freelance.ru/task/view/13549",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "13549",
       "status": "seen"
     },
     "d6cfd8da819ea16443944852b885d87e7220470049b981c032a826413f775b63": {
