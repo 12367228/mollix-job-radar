@@ -8239,6 +8239,14 @@
       "source_id": "5522713",
       "status": "seen"
     },
+    "6c448db3f6b6049d355c9a0874911087412532783bcb62c7330a8f2a681b8f89": {
+      "first_seen_at": "2026-10-24T01:57:47.023952+00:00",
+      "normalized_url": "https://freelance.ru/task/view/13523",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "13523",
+      "status": "seen"
+    },
     "6c57945af603d7b9fd4268a324743e6e0ee01871bcde66915aeeb51fb7f67fbf": {
       "first_seen_at": "2026-09-24T15:26:51.673462+00:00",
       "normalized_url": "https://t.me/freelancetaverna/3962",
