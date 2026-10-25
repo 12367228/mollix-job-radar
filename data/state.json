@@ -3679,6 +3679,69 @@
       "source_id": "5526605",
       "status": "sent"
     },
+    "fl_ru:5526615": {
+      "assessment": {
+        "age_hours": 0.45873428194444443,
+        "complexity": 3,
+        "delivery_blockers": [],
+        "eligible": true,
+        "hot": true,
+        "label": "FIRE",
+        "negative_keywords": [],
+        "positive_keywords": [
+          "python"
+        ],
+        "raw_score": 11,
+        "reasons": [
+          {
+            "code": "base",
+            "points": 2,
+            "text": "Базовая оценка технического проекта"
+          },
+          {
+            "code": "specialization",
+            "points": 2,
+            "text": "Технические признаки: python"
+          },
+          {
+            "code": "stack_compatibility",
+            "points": 2,
+            "text": "STACK_COMPATIBILITY: HIGH_MATCH; Основной стек: Python"
+          },
+          {
+            "code": "fresh",
+            "points": 3,
+            "text": "Возраст 0.5 ч; бонус свежести +3"
+          },
+          {
+            "code": "unknown_budget",
+            "points": 0,
+            "text": "Бюджет не указан"
+          },
+          {
+            "code": "competition",
+            "points": 2,
+            "text": "Откликов: 4; конкуренция +2"
+          }
+        ],
+        "relevance_gate": true,
+        "relevance_reason": "Технические признаки: python",
+        "risk_flags": [],
+        "score": 10,
+        "scored": true,
+        "stack_compatibility": "HIGH_MATCH",
+        "stack_details": [
+          "Python"
+        ],
+        "stack_reason": "Основной стек: Python",
+        "telegram_deliverable": true
+      },
+      "reserved_at": "2026-10-25T06:43:31.445990+00:00",
+      "sent_at": "2026-10-25T06:43:31.915331+00:00",
+      "source": "fl_ru",
+      "source_id": "5526615",
+      "status": "sent"
+    },
     "freelance_ru:11405": {
       "assessment": {
         "age_hours": 0.3153275236111111,
@@ -7571,6 +7634,14 @@
       "source": "fl_ru",
       "source_id": "5522774",
       "status": "seen"
+    },
+    "5925b2af6ddc14d263e4cc0e2a33e80dcfb2c04c38c88dbfd0effb7bcc10be92": {
+      "first_seen_at": "2026-10-25T06:43:30.638133+00:00",
+      "normalized_url": "https://fl.ru/projects/5526615",
+      "sent_at": "2026-10-25T06:43:31.915331+00:00",
+      "source": "fl_ru",
+      "source_id": "5526615",
+      "status": "sent"
     },
     "592dde8dc3402cf03dd50d384e3c49e5cd195326d56c4eb6eda75b2b483cbc1b": {
       "first_seen_at": "2026-10-08T17:27:09.945822+00:00",
@@ -11756,6 +11827,14 @@
       "source_id": "13484",
       "status": "seen"
     },
+    "be4fc1069d2a65f803f3269c0dbbf651d22cd0ed86866ff8ff08fc774d6a063d": {
+      "first_seen_at": "2026-10-25T06:43:30.638133+00:00",
+      "normalized_url": "https://freelance.ru/task/view/13625",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "13625",
+      "status": "seen"
+    },
     "be6835d33913ff550c5b593f3af267d007b3986d7c11e31784b0adf4e61b9f54": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
       "normalized_url": "https://fl.ru/projects/5522576",
@@ -13410,6 +13489,14 @@
       "sent_at": null,
       "source": "freelance_ru",
       "source_id": "11247",
+      "status": "seen"
+    },
+    "e317e1ae7c11dab42af26fa21a45b9a68726320c827507bb6d60932b1da00dc3": {
+      "first_seen_at": "2026-10-25T06:43:30.638133+00:00",
+      "normalized_url": "https://fl.ru/projects/5526621",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5526621",
       "status": "seen"
     },
     "e38f46e08d21cb63b0752b4db883215f389a17cc29633a404e49659f22d59e2f": {
