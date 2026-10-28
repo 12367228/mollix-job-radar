@@ -4364,6 +4364,14 @@
       "source_id": "5525782",
       "status": "sent"
     },
+    "01532c3b1cfb951900e8046eea44dbc4a07452ef702090968ed5417c964113c3": {
+      "first_seen_at": "2026-10-28T02:24:12.646138+00:00",
+      "normalized_url": "https://fl.ru/projects/5527028",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5527028",
+      "status": "seen"
+    },
     "0162a687f97edfe922550a580e00f0c92749c94fc3d1fede4a3ba55b97bcad15": {
       "first_seen_at": "2026-10-09T09:32:16.769987+00:00",
       "normalized_url": "https://fl.ru/projects/5524942",
@@ -6036,6 +6044,14 @@
       "source_id": "job_for_bots_75",
       "status": "seen"
     },
+    "29968a0b05dd287d752aa9850f71e15ab023033fbc49d971735e52b3fcbb0a43": {
+      "first_seen_at": "2026-10-28T02:24:12.646138+00:00",
+      "normalized_url": "https://fl.ru/projects/5527072",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5527072",
+      "status": "seen"
+    },
     "29a99754f34c26e6cd0e033aa2a7a0df4ec7e0465c6c822332a175485ad223b6": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
       "normalized_url": "https://fl.ru/projects/5522393",
@@ -6122,6 +6138,14 @@
       "sent_at": null,
       "source": "fl_ru",
       "source_id": "5522974",
+      "status": "seen"
+    },
+    "2b992773f855ef315db316188f11502b122540a41e7970c4a1cae81611a600bc": {
+      "first_seen_at": "2026-10-28T02:24:12.646138+00:00",
+      "normalized_url": "https://fl.ru/projects/5527041",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5527041",
       "status": "seen"
     },
     "2b9c0a2dc49c6005b16b8e2c9793208205212126b4ba1d6618606087ae480fac": {
@@ -10954,6 +10978,14 @@
       "sent_at": null,
       "source": "telegram_public",
       "source_id": "freelancetaverna_4013",
+      "status": "seen"
+    },
+    "98d37d24f16d4175dbea448c14953eae2b235435bcb0fa63fc3f299496d790f6": {
+      "first_seen_at": "2026-10-28T02:24:12.646138+00:00",
+      "normalized_url": "https://fl.ru/projects/5527053",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5527053",
       "status": "seen"
     },
     "99832876fe13432d0331a93279754ccde2b962186cdb0c9b21ad669aceb41ebf": {
