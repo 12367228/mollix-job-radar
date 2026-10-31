@@ -5763,6 +5763,14 @@
       "source_id": "13725",
       "status": "seen"
     },
+    "1cbe31a36c307d823469b7a2f6f41f7ecb18b4877dfc9de936af3587c6076353": {
+      "first_seen_at": "2026-10-31T11:14:10.525390+00:00",
+      "normalized_url": "https://freelance.ru/task/view/14271",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "14271",
+      "status": "seen"
+    },
     "1ce90f01a13316c6f14374af8c1b0591fdad50d223fa6df0384592c8d0223d7b": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
       "normalized_url": "https://freelance.ru/task/view/10037",
@@ -8027,6 +8035,14 @@
       "source_id": "12938",
       "status": "seen"
     },
+    "514f8eb87cf53472a8a90729c9061617514b07fdf25da3d4b60f836f2fbb264d": {
+      "first_seen_at": "2026-10-31T11:14:10.525390+00:00",
+      "normalized_url": "https://fl.ru/projects/5527473",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5527473",
+      "status": "seen"
+    },
     "51bae3e6d0b6f2926a517a5ce6c385aa863eeec12f69c0c6481cce37ced3727e": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
       "normalized_url": "https://freelance.ru/task/view/11037",
@@ -9001,6 +9017,14 @@
       "sent_at": null,
       "source": "fl_ru",
       "source_id": "5524406",
+      "status": "seen"
+    },
+    "63e3d9ceaec3ef003d04f835eb5e2f9f926715bc9bd7056a4fc6c9ac322c6c95": {
+      "first_seen_at": "2026-10-31T11:14:10.525390+00:00",
+      "normalized_url": "https://fl.ru/projects/5527482",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5527482",
       "status": "seen"
     },
     "642a7d9ace16f2c96b3c8f4bf48e34005c6a29fdb702ce4cf7ab1ad420102322": {
@@ -14321,6 +14345,14 @@
       "sent_at": null,
       "source": "freelance_ru",
       "source_id": "10962",
+      "status": "seen"
+    },
+    "d0d51091d6d97a66442bdd8ab38f5d47f743640cc4d193737ce76865dce9bbed": {
+      "first_seen_at": "2026-10-31T11:14:10.525390+00:00",
+      "normalized_url": "https://fl.ru/projects/5527504",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5527504",
       "status": "seen"
     },
     "d0e148ebe4a1ffff3bfb02dee097672478e4bb2dd838c5e56449108641942f08": {
