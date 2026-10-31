@@ -8651,6 +8651,14 @@
       "source_id": "freelancetaverna_3963",
       "status": "seen"
     },
+    "5b4322123a059022ce4fcf17bd9fa3dd3e9947d3ddec5c5e5601d0fc548be3b1": {
+      "first_seen_at": "2026-10-31T23:22:18.040199+00:00",
+      "normalized_url": "https://freelance.ru/task/view/14299",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "14299",
+      "status": "seen"
+    },
     "5b73f281f4bb5f74cecdcee4b956b45d7d32f90d3797891ad88ecae6dfefc332": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
       "normalized_url": "https://freelance.ru/task/view/9386",
