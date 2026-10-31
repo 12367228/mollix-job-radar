@@ -11315,12 +11315,28 @@
       "source_id": "5526844",
       "status": "sent"
     },
+    "9317b9932825f64dc35940ee7acde739173c4d7d5f8df10a5eeceb93167dc503": {
+      "first_seen_at": "2026-10-31T20:06:45.517603+00:00",
+      "normalized_url": "https://fl.ru/projects/5527544",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5527544",
+      "status": "seen"
+    },
     "9341c9007cddbcf5f51e5386a41ab8bffca9d70e770e7d4b0648e17c81dfda9c": {
       "first_seen_at": "2026-10-10T18:00:40.217580+00:00",
       "normalized_url": "https://t.me/job_for_bots/55",
       "sent_at": null,
       "source": "telegram_public",
       "source_id": "job_for_bots_55",
+      "status": "seen"
+    },
+    "9364ee59fa6d21da20270abe78895fd4f3cd3c286ed4c2883810d590d1c77a05": {
+      "first_seen_at": "2026-10-31T20:06:45.517603+00:00",
+      "normalized_url": "https://freelance.ru/task/view/14291",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "14291",
       "status": "seen"
     },
     "9378472134a962f175f2412545cb8c9a155b985ce7d2e08f14df38b5704ec777": {
@@ -11945,6 +11961,14 @@
       "sent_at": null,
       "source": "freelance_ru",
       "source_id": "13317",
+      "status": "seen"
+    },
+    "9e98c83e18ffcd86d684b4b6c565d778497641e38655652abb4c241830ec1c30": {
+      "first_seen_at": "2026-10-31T20:06:45.517603+00:00",
+      "normalized_url": "https://fl.ru/projects/5527545",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5527545",
       "status": "seen"
     },
     "9e9d148d371a096800587ba704789ed0b14476ab126825b9d6e2af0486fb5c6a": {
@@ -14849,6 +14873,14 @@
       "sent_at": null,
       "source": "fl_ru",
       "source_id": "5524065",
+      "status": "seen"
+    },
+    "dbab4d354acdbd7b4f707191fa5ebb60a6540ff882bed7499632177f694174ec": {
+      "first_seen_at": "2026-10-31T20:06:45.517603+00:00",
+      "normalized_url": "https://freelance.ru/task/view/14292",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "14292",
       "status": "seen"
     },
     "dbba069fbd98fbf6643c6f71a5f9d69f66d57020c885e5b42945d96c7e29f503": {
