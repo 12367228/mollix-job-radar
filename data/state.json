@@ -15859,6 +15859,14 @@
       "source_id": "5526501",
       "status": "seen"
     },
+    "ee3bb05fda486191c8ecf9bb5c0b5ebf6469075201407b89ae9bf27d5c2f84b9": {
+      "first_seen_at": "2026-11-01T02:30:10.606963+00:00",
+      "normalized_url": "https://fl.ru/projects/5527570",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5527570",
+      "status": "seen"
+    },
     "ee505685b5d4be38da13a01d05e27534deeb749e1c680e1aea1b2757743ef825": {
       "first_seen_at": "2026-10-03T12:26:38.145402+00:00",
       "normalized_url": "https://t.me/freelancetaverna/3998",
