@@ -6163,6 +6163,14 @@
       "source_id": "5527387",
       "status": "seen"
     },
+    "21d2174f8e0deb7dcb13a4b818e8cd1c33ff65c52e5e668fe47c9195a3e22ac5": {
+      "first_seen_at": "2026-11-05T06:28:30.422100+00:00",
+      "normalized_url": "https://freelance.ru/task/view/14707",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "14707",
+      "status": "seen"
+    },
     "21e156cf0eb614f83edd64b006c587f89a942e17b4d9158e29f32419eff26644": {
       "first_seen_at": "2026-10-29T13:26:07.971826+00:00",
       "normalized_url": "https://fl.ru/projects/5527251",
@@ -6321,6 +6329,14 @@
       "sent_at": null,
       "source": "freelance_ru",
       "source_id": "10905",
+      "status": "seen"
+    },
+    "2645f87693fea297db9fe9d48e67652d5de2c2e72d7a5a330ad8374bb4193da5": {
+      "first_seen_at": "2026-11-05T06:28:30.422100+00:00",
+      "normalized_url": "https://fl.ru/projects/5528070",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5528070",
       "status": "seen"
     },
     "267bc1cc2574d2b4324800ad1650fa16ef7fb2fbc3c00749dde078cb11bf63b8": {
@@ -8809,6 +8825,14 @@
       "sent_at": null,
       "source": "telegram_public",
       "source_id": "freelancetaverna_3955",
+      "status": "seen"
+    },
+    "58fd708a8e20933829e9a6a14f367ddadef1dd3158742f3be651dff05c2e6b53": {
+      "first_seen_at": "2026-11-05T06:28:30.422100+00:00",
+      "normalized_url": "https://fl.ru/projects/5528036",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5528036",
       "status": "seen"
     },
     "590aae1c6e8de2204cf13d3a1d101dd5cb3df7afba26b1b03f3627d4a7bf6694": {
@@ -12019,6 +12043,14 @@
       "source_id": "5525786",
       "status": "seen"
     },
+    "9651aaefe9a57c57d18a1ca00b6fe942c167f147ed0cdda7465bc3bc40b1b03a": {
+      "first_seen_at": "2026-11-05T06:28:30.422100+00:00",
+      "normalized_url": "https://fl.ru/projects/5528038",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5528038",
+      "status": "seen"
+    },
     "967314f4ed7567b6003d736dbd6661aa3521a30b158d4e5dd9abe2f6fdc4a6f0": {
       "first_seen_at": "2026-10-30T15:53:52.356316+00:00",
       "normalized_url": "https://fl.ru/projects/5527401",
@@ -12585,6 +12617,14 @@
       "sent_at": null,
       "source": "freelance_ru",
       "source_id": "14278",
+      "status": "seen"
+    },
+    "a03189e97f5c8ad47a4c5a6db5ad3b04ac801b6f86fe9b32b69fff7cdad9cecf": {
+      "first_seen_at": "2026-11-05T06:28:30.422100+00:00",
+      "normalized_url": "https://fl.ru/projects/5528049",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5528049",
       "status": "seen"
     },
     "a039ab893c19d1ff4eb602468e59044ca6d768a10df28282ada573048d13d6aa": {
@@ -13649,6 +13689,14 @@
       "sent_at": null,
       "source": "telegram_public",
       "source_id": "freelancetaverna_3953",
+      "status": "seen"
+    },
+    "b6756c01799e0e27a2e3464599c89c91883734632f5e4c9f82015a7d863e5050": {
+      "first_seen_at": "2026-11-05T06:28:30.422100+00:00",
+      "normalized_url": "https://fl.ru/projects/5528061",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5528061",
       "status": "seen"
     },
     "b679f2af184d8668185bde56dcc177a98d4d696c19cc52d8f45c192a9aad362b": {
@@ -15065,6 +15113,14 @@
       "sent_at": null,
       "source": "fl_ru",
       "source_id": "5523757",
+      "status": "seen"
+    },
+    "d0020a39486bd2f1770bf6f654e0066d6641a57f64aa4d1f542e0e7b6bcf1464": {
+      "first_seen_at": "2026-11-05T06:28:30.422100+00:00",
+      "normalized_url": "https://fl.ru/projects/5528046",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5528046",
       "status": "seen"
     },
     "d01c7fc19d7bb3be530f71549c73573d154e2935e4818176aa524fb5e39e7424": {
