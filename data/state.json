@@ -6387,6 +6387,14 @@
       "source_id": "11196",
       "status": "seen"
     },
+    "24b68e4676b9d9ffd495b2b78170921fd0a011d5433f694e4db751c0a2a3300f": {
+      "first_seen_at": "2026-11-07T22:34:50.124348+00:00",
+      "normalized_url": "https://fl.ru/projects/5528385",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5528385",
+      "status": "seen"
+    },
     "24f0a0424847f027f05b79ad3886dc7d444c6434f24e29da0ee6573d128613fe": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
       "normalized_url": "https://fl.ru/projects/5522118",
@@ -12625,6 +12633,14 @@
       "sent_at": null,
       "source": "fl_ru",
       "source_id": "5522963",
+      "status": "seen"
+    },
+    "9b3a730e0d80361e0c6a7f3862660628320ac5dac07edbd66a4726d69d72cada": {
+      "first_seen_at": "2026-11-07T22:34:50.124348+00:00",
+      "normalized_url": "https://fl.ru/projects/5528398",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5528398",
       "status": "seen"
     },
     "9b449ea3345c36039ecf3476bfa3197aae11eaf97b9835fc75b1fdb90cd1311e": {
