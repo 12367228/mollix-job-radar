@@ -7603,6 +7603,14 @@
       "source_id": "5527076",
       "status": "seen"
     },
+    "3cf46d72a3801ba7e23cead2acfe50346a0d4399d27a4130d60e2af01f6992c9": {
+      "first_seen_at": "2026-11-09T02:45:43.754696+00:00",
+      "normalized_url": "https://fl.ru/projects/5528532",
+      "sent_at": null,
+      "source": "fl_ru",
+      "source_id": "5528532",
+      "status": "seen"
+    },
     "3d24708861c2f0bb04b3587e467c5d8e94fbea239a1491f2a55579c7519b0b21": {
       "first_seen_at": "2026-10-06T15:10:11.171104+00:00",
       "normalized_url": "https://fl.ru/projects/5524558",
