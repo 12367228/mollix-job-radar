@@ -5003,6 +5003,14 @@
       "source_id": "13752",
       "status": "seen"
     },
+    "07ac66e5da8ed2c17078dcf87f3144ee52815cbc2fc2cc4c3b4a10e3881a01ef": {
+      "first_seen_at": "2026-11-13T11:33:34.893203+00:00",
+      "normalized_url": "https://t.me/freelancetaverna/4166",
+      "sent_at": null,
+      "source": "telegram_public",
+      "source_id": "freelancetaverna_4166",
+      "status": "seen"
+    },
     "07f9aa36d6210b9dc740edd37bed618cd867386fdd9248906b12ef5373a05aa6": {
       "first_seen_at": "2026-09-23T20:12:36.526008+00:00",
       "normalized_url": "https://fl.ru/projects/5522336",
@@ -5569,6 +5577,14 @@
       "sent_at": null,
       "source": "fl_ru",
       "source_id": "5525797",
+      "status": "seen"
+    },
+    "1170658915e2be15e4c6c9c77a520531ce85d76d4d923d834e1c4f1182c829eb": {
+      "first_seen_at": "2026-11-13T11:33:34.893203+00:00",
+      "normalized_url": "https://t.me/freelancetaverna/4168",
+      "sent_at": null,
+      "source": "telegram_public",
+      "source_id": "freelancetaverna_4168",
       "status": "seen"
     },
     "11e1d2d07bf7904df5338f103afe1b3ae7b6f64af91386cc1458797c464e69a4": {
@@ -13281,6 +13297,14 @@
       "sent_at": null,
       "source": "fl_ru",
       "source_id": "5527053",
+      "status": "seen"
+    },
+    "98da26c84d3ea69b9a3c6702ceb7243a3b6dc5da77f3c0e6418d6105bd9d95ee": {
+      "first_seen_at": "2026-11-13T11:33:34.893203+00:00",
+      "normalized_url": "https://t.me/digitaltender/5629",
+      "sent_at": null,
+      "source": "telegram_public",
+      "source_id": "digitaltender_5629",
       "status": "seen"
     },
     "98dbe480910939e84fb609306e4b294525f55f37bb77e332b6352a4a36394f29": {
