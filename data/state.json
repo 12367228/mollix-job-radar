@@ -16579,6 +16579,14 @@
       "source_id": "8805",
       "status": "seen"
     },
+    "aaf68a180612855562698ea726ab5ebc6d49a4826dce8c7f45dea3cf3beefa27": {
+      "first_seen_at": "2026-11-25T04:35:18.570264+00:00",
+      "normalized_url": "https://freelance.ru/task/view/16338",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "16338",
+      "status": "seen"
+    },
     "aaf76150b2bf6e6bbc3f1d25323404aa36659219eaee8bd46f427a143e566846": {
       "first_seen_at": "2026-10-19T10:14:25.192139+00:00",
       "normalized_url": "https://freelance.ru/task/view/12994",
