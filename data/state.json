@@ -18299,6 +18299,14 @@
       "source_id": "16129",
       "status": "seen"
     },
+    "bf619970b58125bb416e22e6548170a535942aaf47d488ab0e859719b70dfe6c": {
+      "first_seen_at": "2026-11-28T01:31:15.655454+00:00",
+      "normalized_url": "https://freelance.ru/task/view/16606",
+      "sent_at": null,
+      "source": "freelance_ru",
+      "source_id": "16606",
+      "status": "seen"
+    },
     "bf783c17df717647ab4bb72fc58856d747730085f16755fc0f4338e34b54f122": {
       "first_seen_at": "2026-11-06T16:16:53.034057+00:00",
       "normalized_url": "https://freelance.ru/task/view/14817",
